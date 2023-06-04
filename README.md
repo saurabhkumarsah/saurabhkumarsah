@@ -8,7 +8,7 @@ Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong 
 
 ## About Me
 
-- 🎓 Graduated from [Aryabhatta Knowledge University, Patna] with a degree in [Computer Application]
+- 🎓 Graduated from Aryabhatta Knowledge University, Patna with a degree in Computer Application
 <!-- - 💼 Currently working at [Company/Organization], where I [briefly describe your role/responsibilities] -->
 <!-- - 🔭 I’m currently working on [exciting project or goal] -->
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills
@@ -21,7 +21,7 @@ Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong 
 - 💻 Proficient in [JavaScript, Node.js]
 - 🌐 Experience with web development technologies such as HTML, CSS, JavaScript, and more
 - 🚀 Familiar with tools like Git, Postman, and Visual Studio Code
-- 📚 Always expanding my knowledge in [JavaScript]
+- 📚 Always expanding my knowledge in JavaScript
 
 ## Projects
 
