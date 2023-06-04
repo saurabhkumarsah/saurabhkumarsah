@@ -18,7 +18,7 @@ Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong 
 ## Tech Stack
 
 <!-- - 💻 Proficient in [programming languages, frameworks, or technologies you specialize in] -->
-- 💻 Proficient in [JavaScript, Node.js]
+- 💻 Proficient in JavaScript, Node.js
 - 🌐 Experience with web development technologies such as HTML, CSS, JavaScript, and more
 - 🚀 Familiar with tools like Git, Postman, and Visual Studio Code
 - 📚 Always expanding my knowledge in JavaScript
