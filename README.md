@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saurabhksah)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-%23117AC9?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
-Hello there! 👋 I'm Saurabh Sah, a passionate [insert your role or field here] with a strong interest in JavaScript <!--[specific technologies or domains] -->. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects, experiments, and contributions to the open-source community.
+Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong interest in JavaScript <!--[specific technologies or domains] -->. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects, experiments, and contributions to the open-source community.
 
 ## About Me
 
@@ -27,9 +27,9 @@ Hello there! 👋 I'm Saurabh Sah, a passionate [insert your role or field here]
 
 Here are a few highlighted projects from my GitHub repository:
 
-- [Project 1]([link-to-project](https://github.com/saurabhkumarsah/JaiKisan_FunctionUp.git)): Brief description of the project, highlighting its key features and technologies used.
-- [Project 2]([link-to-project](https://github.com/saurabhkumarsah/Blogging.git)): Brief description of the project, highlighting its key features and technologies used.
-- [Project 3]([link-to-project](https://github.com/saurabhkumarsah/URL-SHORTNER.git)): Brief description of the project, highlighting its key features and technologies used.
+- [Project 1](https://github.com/saurabhkumarsah/JaiKisan_FunctionUp.git): Brief description of the project, highlighting its key features and technologies used.
+- [Project 2](https://github.com/saurabhkumarsah/Blogging.git): Brief description of the project, highlighting its key features and technologies used.
+- [Project 3](https://github.com/saurabhkumarsah/URL-SHORTNER.git): Brief description of the project, highlighting its key features and technologies used.
 
 Feel free to explore my repository to discover more interesting projects and contributions.
 
