@@ -9,11 +9,11 @@ Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong 
 ## About Me
 
 - 🎓 Graduated from Aryabhatta Knowledge University, Patna with a degree in Computer Application
-<!-- - 💼 Currently working at [Company/Organization], where I [briefly describe your role/responsibilities] -->
-<!-- - 🔭 I’m currently working on [exciting project or goal] -->
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills
 - 💡 Passionate about [Node.js]
 <!-- - ✍️ Love sharing my knowledge and experiences through blog posts and technical write-ups -->
+<!--2 - 💼 Currently working at [Company/Organization], where I [briefly describe your role/responsibilities] -->
+<!--3 - 🔭 I’m currently working on [exciting project or goal] -->
 
 ## Tech Stack
 
