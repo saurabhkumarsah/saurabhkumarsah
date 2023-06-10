@@ -10,7 +10,7 @@ Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong 
 
 - 🎓 Graduated from Aryabhatta Knowledge University, Patna with a degree in Computer Application
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills
-- 💡 Passionate about [Node.js]
+- 💡 Passionate about [Node.js](https://nodejs.org/)
 <!-- - ✍️ Love sharing my knowledge and experiences through blog posts and technical write-ups -->
 <!--2 - 💼 Currently working at [Company/Organization], where I [briefly describe your role/responsibilities] -->
 <!--3 - 🔭 I’m currently working on [exciting project or goal] -->
@@ -27,9 +27,9 @@ Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong 
 
 Here are a few highlighted projects from my GitHub repository:
 
-- [Project 1](https://github.com/saurabhkumarsah/JaiKisan_FunctionUp.git): Brief description of the project, highlighting its key features and technologies used.
-- [Project 2](https://github.com/saurabhkumarsah/Blogging.git): Brief description of the project, highlighting its key features and technologies used.
-- [Project 3](https://github.com/saurabhkumarsah/URL-SHORTNER.git): Brief description of the project, highlighting its key features and technologies used.
+- [Project 1](https://github.com/saurabhkumarsah/JaiKisan_FunctionUp.git) <!--  : Brief description of the project, highlighting its key features and technologies used.-->
+- [Project 2](https://github.com/saurabhkumarsah/Blogging.git) <!-- : Brief description of the project, highlighting its key features and technologies used. -->
+- [Project 3](https://github.com/saurabhkumarsah/URL-SHORTNER.git) <!-- : Brief description of the project, highlighting its key features and technologies used. -->
 
 Feel free to explore my repository to discover more interesting projects and contributions.
 
