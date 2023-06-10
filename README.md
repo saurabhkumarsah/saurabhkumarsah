@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkumarsah)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saurabhksah)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-%231DA1F2?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.com/saurabhkumarsah/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-%23117AC9?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
 Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong interest in JavaScript <!--[specific technologies or domains] -->. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects, experiments, and contributions to the open-source community.
