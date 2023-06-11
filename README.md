@@ -57,7 +57,7 @@
 
 <!-- Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong interest in JavaScript <!--[specific technologies or domains]. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects, experiments, and contributions to the open-source community. -->
 
-<!-- ## About Me --> -->
+<!-- ## About Me -->
 
 <!-- - 🎓 Graduated from Aryabhatta Knowledge University, Patna with a degree in Computer Application
 - 🌱 I’m constantly learning and exploring new technologies to enhance my skills
@@ -76,13 +76,13 @@
  -->
 <!-- ## Projects
 
-Here are a few highlighted projects from my GitHub repository: --> -->
+Here are a few highlighted projects from my GitHub repository: -->
 
 <!-- - [Project 1](https://github.com/saurabhkumarsah/JaiKisan_FunctionUp.git) <!--  : Brief description of the project, highlighting its key features and technologies used.-->
 <!-- - [Project 2](https://github.com/saurabhkumarsah/Blogging.git) <!-- : Brief description of the project, highlighting its key features and technologies used. -->
 <!-- - [Project 3](https://github.com/saurabhkumarsah/URL-SHORTNER.git) <!-- : Brief description of the project, highlighting its key features and technologies used. -->
  --> -->
-<!-- Feel free to explore my repository to discover more interesting projects and contributions. --> -->
+<!-- Feel free to explore my repository to discover more interesting projects and contributions. -->
 
 <!-- ## Blog
 
