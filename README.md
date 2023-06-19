@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong interest in JavaScript, Node.js, Express.js, MongoDB. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects, experiments, and contributions to the open-source community.
+Hello there! 👋 I'm Saurabh Sah, a passionate Backend Developer with a strong interest in JavaScript, Node.js, Express.js, MongoDB. You'll find a collection of my personal projects, experiments, and contributions to the open-source community.
 
 ## About Me
 
